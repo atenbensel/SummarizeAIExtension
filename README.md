@@ -19,13 +19,13 @@ Summarize AI is a Chrome extension that allows you to summarize web pages using 
 ## Usage
 
 1. Click on the Summarize AI extension icon in the browser toolbar.
-2. Enter the text you want to summarize in the provided textarea.
+2. Enter the text you want to summarize in the provided text area.
 3. Click the "Summarize" button.
 4. The summary will be displayed below the button.
 
 ## API Key
 
-This extension uses the Summarize AI API to perform the text summarization. To use the API, you need to obtain an API key from [RapidAPI](https://rapidapi.com/) and replace the `apiKey` variable in `popup.js` with your own API key.
+This extension uses the Summarize AI API to perform text summarization. To use the API, you need to obtain an API key from [RapidAPI](https://rapidapi.com/) and replace the `apiKey` variable in `popup.js` with your own API key.
 
 ## Customization
 
