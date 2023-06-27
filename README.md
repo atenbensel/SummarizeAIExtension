@@ -39,3 +39,4 @@ You can customize the extension's styling by modifying the `styles.css` file in 
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
+// TODO: Attach a small GoogleAds banner to the extension when in use.
