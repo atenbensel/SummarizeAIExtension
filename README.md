@@ -1,6 +1,6 @@
 # Summarize AI Chrome Extension
 
-Summarize AI is a Chrome extension that allows you to summarize web pages using an AI-powered text summarization API. It provides a convenient way to extract key information from lengthy texts, saving you time and effort.
+SummarizeAI is a Chrome extension that allows you to summarize web pages using an AI-powered text summarization API. It provides a convenient way to extract key information from lengthy texts, saving you time and effort.
 
 ## Features
  
